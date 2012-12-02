@@ -1,0 +1,24 @@
+﻿Build started 02.12.2012 15:01:26.
+     1>Project "E:\Studying\СПО\Term paper\CCompiler\CCompiler\CCompiler.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\CCompiler.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt SyntaxAnalizer.cpp
+         SyntaxAnalizer.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Studying\СПО\Term paper\CCompiler\Debug\CCompiler.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\CCompiler.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Studying\СПО\Term paper\CCompiler\Debug\CCompiler.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Studying\СПО\Term paper\CCompiler\Debug\CCompiler.lib" /MACHINE:X86 Debug\CodeGenerator.obj
+         Debug\Compiler.obj
+         Debug\main.obj
+         Debug\SyntaxAnalizer.obj
+         LINK : E:\Studying\СПО\Term paper\CCompiler\Debug\CCompiler.exe not found or not built by the last incremental link; performing full link
+         CCompiler.vcxproj -> E:\Studying\СПО\Term paper\CCompiler\Debug\CCompiler.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\Studying\СПО\Term paper\CCompiler\Debug\CCompiler.exe;#1" /manifest Debug\CCompiler.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\CCompiler.unsuccessfulbuild".
+         Touching "Debug\CCompiler.lastbuildstate".
+     1>Done Building Project "E:\Studying\СПО\Term paper\CCompiler\CCompiler\CCompiler.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.85
